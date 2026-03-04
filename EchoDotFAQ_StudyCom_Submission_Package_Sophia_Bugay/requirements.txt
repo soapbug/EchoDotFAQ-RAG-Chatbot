@@ -1,7 +1,0 @@
-pandas
-langchain
-langchain-openai
-langchain-chroma
-chromadb
-requests
-beautifulsoup4
