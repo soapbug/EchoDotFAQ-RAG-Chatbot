@@ -1,0 +1,12 @@
+# EchoDotFAQ Chatbot Python source code
+# (Use previously generated implementation)
+# EchoDotFAQ Chatbot Python source code
+# (Use previously generated implementation)
+
+pandas
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+requests
+beautifulsoup4
